@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.48d8ce63.chunk.css",
+    "main.js": "/portfolio/static/js/main.155ad245.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.155ad245.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.075c0788.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.075c0788.js.map",
+    "static/js/2.b0884e18.chunk.js": "/portfolio/static/js/2.b0884e18.chunk.js",
+    "static/js/2.b0884e18.chunk.js.map": "/portfolio/static/js/2.b0884e18.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.9d04107ccb1f1a7e05ad2e82d12b3959.js": "/portfolio/precache-manifest.9d04107ccb1f1a7e05ad2e82d12b3959.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.48d8ce63.chunk.css.map": "/portfolio/static/css/main.48d8ce63.chunk.css.map",
+    "static/js/2.b0884e18.chunk.js.LICENSE.txt": "/portfolio/static/js/2.b0884e18.chunk.js.LICENSE.txt",
+    "static/media/RecoMovie.png": "/portfolio/static/media/RecoMovie.4177dbc8.png",
+    "static/media/homie.png": "/portfolio/static/media/homie.cc1090fe.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.075c0788.js",
+    "static/js/2.b0884e18.chunk.js",
+    "static/css/main.48d8ce63.chunk.css",
+    "static/js/main.155ad245.chunk.js"
+  ]
+}
